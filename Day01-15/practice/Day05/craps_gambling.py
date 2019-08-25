@@ -9,6 +9,10 @@ Craps赌博游戏
     否则游戏继续 玩家继续摇色子
 
 玩家进入游戏时有1000元的赌注 全部输光游戏结束。
+
+Version 0.1
+Author: FU, Chaojie
+Date: 2019.08.25
 """
 from random import randint
 print('You have 1000 yuan as you initial estate, now start.')
