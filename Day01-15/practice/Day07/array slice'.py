@@ -4,11 +4,11 @@
 """
 origin = [1, 2, 3, 4, 5]
 print('origin = ', origin)
-slice = origin[1:3]
-print('slice = ', slice)
+Slice = origin[1:3]
+print('slice = ', Slice)
 origin[1] = 9
 print('origin = ', origin)
-print('slice = ', slice)
+print('slice = ', Slice)
 
 """
 结果表明python的数据切片操作时创建一个新的数组
